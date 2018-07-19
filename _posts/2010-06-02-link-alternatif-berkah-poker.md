@@ -1,6 +1,7 @@
 ---
 title: "Berkah Poker"
 header:
+  teaser: https://istanavip.com/app/logo.png
   overlay_image: https://istanavip.com/app/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Berkah Poker"
