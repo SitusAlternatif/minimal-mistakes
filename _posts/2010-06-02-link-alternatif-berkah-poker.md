@@ -18,3 +18,8 @@ tags:
   - Capsa
 last_modified_at: 2018-03-20T16:00:52-04:00
 ---
+## Overlay filter
+
+You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
+
+![transparent black overlay]({{ "https://istanavip.com/app/logo.png" | relative_url }})
